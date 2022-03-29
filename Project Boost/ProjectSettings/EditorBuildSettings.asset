@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Under.unity
     guid: 9fc4ddf9be232d646891f90350a5bd0a
+  - enabled: 1
+    path: Assets/Scenes/Groovy.unity
+    guid: a8599bb4e3146ca4c8d1792553ff07b5
   m_configObjects: {}
